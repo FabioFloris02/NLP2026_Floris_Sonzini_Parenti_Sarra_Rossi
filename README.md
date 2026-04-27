@@ -10,3 +10,6 @@ Incontro 1:
 - Chain of Tougths
 - Scoring dei modelli per autorevolezza -> Online learning o assegnazione statica
 - Comparison più modelli specifici contro uno generale
+
+Link utili:
+- https://huggingface.co/blog/ngxson/make-your-own-rag
