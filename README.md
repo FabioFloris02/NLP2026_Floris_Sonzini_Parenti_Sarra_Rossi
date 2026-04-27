@@ -1,0 +1,12 @@
+Incontro 1:
+- Ensamble di modelli
+- Verifica di similarità con majority voting / fine tuning per risposta ad opzioni con majority voting
+- wikiChat
+- monitoraggio tempo
+- cache di documenti RAG
+- più modelli RAG ? -> threshold su documenti restituiti?
+- wolfram -> chiedere a prof se è ok usare API con numero chiamate gratuite
+- Indagare su questione agenti
+- Chain of Tougths
+- Scoring dei modelli per autorevolezza -> Online learning o assegnazione statica
+- Comparison più modelli specifici contro uno generale
