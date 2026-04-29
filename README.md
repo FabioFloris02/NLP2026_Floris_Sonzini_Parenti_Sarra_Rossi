@@ -10,6 +10,7 @@ Incontro 1:
 - Chain of Tougths
 - Scoring dei modelli per autorevolezza -> Online learning o assegnazione statica
 - Comparison più modelli specifici contro uno generale
+- Nell'esercitazione n.9 c'è 'fine-tuning for math reasoning'
 
 Link utili:
 - https://huggingface.co/blog/ngxson/make-your-own-rag
