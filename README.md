@@ -18,6 +18,7 @@ Link utili:
 - https://mbrenndoerfer.com/writing/ai-agent-calculator-tool-implementation-guide
 
 Modelli:
+
 Formattazione -> [Nome_modello]: [descrizione] ([link])
   1. Modelli possibili da provare:
   2. Modelli usati:
