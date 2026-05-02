@@ -15,3 +15,4 @@ Incontro 1:
 Link utili:
 - https://huggingface.co/blog/ngxson/make-your-own-rag
 - https://pypi.org/project/Wikipedia-API/
+- https://mbrenndoerfer.com/writing/ai-agent-calculator-tool-implementation-guide
