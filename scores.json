@@ -1,0 +1,26 @@
+{
+  "Entertainment": {
+    "final model best score": 1000000,
+    "human scores": {"0": 10, "100": 2, "200": 1, "300": 2, "500": 1, "1000": 1}
+  },
+  "Ancient History and Politics": {
+    "final model best score": 1000000,
+    "human scores": {"0": 8, "100": 2, "200": 1, "300": 4, "2000": 1, "4000": 1}
+  },
+  "Science and nature": {
+    "final model best score": 1000000,
+    "human scores": {"0": 4, "100": 3, "200": 3, "300": 2, "1000": 1, "2000": 1, "4000": 3}
+  },
+  "Maths": {
+    "final model best score": 64000,
+    "human scores": {"0": 12, "100": 5}
+  },
+  "Philosophy and Psycology": {
+	"final model best score": 1000000,
+    "human scores": {"0": 3, "100": 4, "200": 5, "300": 2, "500": 2, "2000": 1}
+  },
+  "News": {
+	"final model best score": 256000,
+    "human scores": {"0": 12, "100": 2, "200": 1, "300": 2}
+  }
+}
